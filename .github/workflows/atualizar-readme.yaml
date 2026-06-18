@@ -14,7 +14,6 @@ jobs:
 atualizar-readme:
 runs-on: ubuntu-latest
 
-```
 steps:
   - name: Checkout
     uses: actions/checkout@v4
@@ -38,4 +37,3 @@ steps:
         git commit -m "docs: atualizar lista da turma"
         git push
       )
-```
