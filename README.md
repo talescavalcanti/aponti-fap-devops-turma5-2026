@@ -24,13 +24,14 @@ Após o merge, seu nome será adicionado automaticamente à lista de integrantes
 | <img src="https://github.com/fililpe.png" width="50"> | Filipe Sousa | [@fililpe](https://github.com/fililpe) | Recife | [Perfil](https://linkedin.com/in/luizfilipesousa) |
 | <img src="https://github.com/LucasEmmanoel06.png" width="50"> | Lucas Emmanoel | [@LucasEmmanoel06](https://github.com/LucasEmmanoel06) | Recife | [Perfil](https://linkedin.com/in/lucasemalbuquerque) |
 | <img src="https://github.com/PedroDelmiro13.png" width="50"> | Pedro Delmiro | [@PedroDelmiro13](https://github.com/PedroDelmiro13) | Jaboatão dos Guararapes | [Perfil](https://linkedin.com/in/pedrodelmiro) |
+| <img src="https://github.com/victorjls21.png" width="50"> | Victor Julius | [@victorjls21](https://github.com/victorjls21) | Olinda | [Perfil](https://linkedin.com/in/victor-julius) |
 
 <!-- TABELA-FIM -->
 
 ## Estatísticas
 
 <!-- ESTATISTICAS-INICIO -->
-Total de alunos cadastrados: 4
+Total de alunos cadastrados: 5
 
 Última atualização: 19/06/2026, 22:55
 
