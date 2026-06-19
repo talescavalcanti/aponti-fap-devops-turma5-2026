@@ -30,6 +30,7 @@ Após o merge, seu nome será adicionado automaticamente à lista de integrantes
 | <img src="https://github.com/https://github.com/LucasMadureiro.png" width="50"> | Lucas Madureiro | [@https://github.com/LucasMadureiro](https://github.com/https://github.com/LucasMadureiro) | Paulista | [Perfil](https://www.linkedin.com/in/lucas-madureiro-matias-6946a8277/) |
 | <img src="https://github.com/felipeGTBR.png" width="50"> | Luiz Felipe | [@felipeGTBR](https://github.com/felipeGTBR) | Jaboatão | [Perfil](https://linkedin.com/in/luiz-felipe-ti) |
 | <img src="https://github.com/miltonmaglhaesv.png" width="50"> | Milton Magalhães | [@miltonmaglhaesv](https://github.com/miltonmaglhaesv) | Recife | [Perfil](https://linkedin.com/in/miltonmagalhaesv) |
+| <img src="https://github.com/miqueias-eduardo.png" width="50"> | Miqueias Eduardo | [@miqueias-eduardo](https://github.com/miqueias-eduardo) | Jaboatão dos Guararapes | [Perfil](https://www.linkedin.com/in/miqueias-eduardo) |
 | <img src="https://github.com/Nayara1505.png" width="50"> | Nayara Karla Medeiros da Silva | [@Nayara1505](https://github.com/Nayara1505) | Jaboatão dos Guararapes | - |
 | <img src="https://github.com/nhsneto.png" width="50"> | Nelson Neto | [@nhsneto](https://github.com/nhsneto) | Paulista | [Perfil](https://linkedin.com/in/nhsneto) |
 | <img src="https://github.com/PedroDelmiro13.png" width="50"> | Pedro Delmiro | [@PedroDelmiro13](https://github.com/PedroDelmiro13) | Jaboatão dos Guararapes | [Perfil](https://linkedin.com/in/pedrodelmiro) |
@@ -41,8 +42,8 @@ Após o merge, seu nome será adicionado automaticamente à lista de integrantes
 ## Estatísticas
 
 <!-- ESTATISTICAS-INICIO -->
-Total de alunos cadastrados: 15
+Total de alunos cadastrados: 16
 
-Última atualização: 19/06/2026, 23:15
+Última atualização: 19/06/2026, 23:16
 
 <!-- ESTATISTICAS-FIM -->
